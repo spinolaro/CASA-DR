@@ -69,7 +69,7 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label height="20" borderalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" enabled="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" wordwrap="1"/>
       <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
-      <hotspot id="Point01" pan="-6.26" tilt="-9.95" url="" skinid="ht_url" title="" target="_blank" description=""/>
+      <hotspot id="Point01" pan="-6.26" tilt="-9.95" url="{node4}" skinid="ht_node" title="" target="" description=""/>
       <hotspot id="Point02" pan="-23.5" tilt="-33.93" url="" skinid="ht_url" title="" target="_blank" description=""/>
       <hotspot id="Point03" pan="-180.43" tilt="-29.97" url="{node2}" skinid="ht_node" title="" target="" description=""/>
       <hotspot id="Point04" pan="-169.12" tilt="-11.33" url="{node1}" skinid="ht_node" title="" target="" description=""/>
